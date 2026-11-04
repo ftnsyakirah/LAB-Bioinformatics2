@@ -1,1 +1,2 @@
-# LAB-Bioinformatics-II
+# LAB-Bioinformatics2
+
